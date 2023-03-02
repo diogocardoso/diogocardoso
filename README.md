@@ -14,8 +14,8 @@ I've been working with development since 2008, over the years I've worked as a s
 - ⚡ Fun fact: ...
 -->
 <div style="display:flex;padding:0.5rem;border:1px solid #ccc;background-color:#e9e9e9;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocardoso&layout=compact&langs_count=16" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocardoso&layout=compact&langs_count=16&theme=dark" />
   
 </div>  
 <br/><br/>
