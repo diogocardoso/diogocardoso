@@ -28,10 +28,15 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 
 ### 📈 Estatísticas:
 
-diogocardoso's GitHub stats (https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=radical)
-Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=diogocardoso&layout=compact&theme=radical)
+![diogocardoso GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocardoso&layout=compact&theme=radical)
 
 ---
+
+## Projetos em Destaque
+
+https://github.com/diogocardoso/DownloaderTube
+
 
 ### 📫 Vamos nos conectar?
 
