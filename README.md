@@ -1,51 +1,44 @@
-### Hi I'm Diogo
+# Olá, eu sou o [Diogo] 👋
 
-I've been working with development since 2008, over the years I've worked as a software engineer, project manager and software designer, but my passion is programming.
+### Software Architect | Go Specialist | Technical Leader
 
-- 🌱  I’m currently learning Phyton e Flutter
+Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafios complexos em sistemas de **alta disponibilidade**. Minha missão é construir pontes entre necessidades de negócio e soluções técnicas robustas, priorizando sempre performance, resiliência e escalabilidade.
 
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="display:flex;padding:0.5rem;border:1px solid #ccc;background-color:#e9e9e9;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocardoso&layout=compact&langs_count=16&theme=dark" />
-  
-</div>  
-<br/><br/>
+---
 
-# knowledge
+### 🚀 O que eu trago para a mesa:
 
-<br/>
-<div align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50px" height="50px" marginTop="1px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40px" height="40px" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" />          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40px" height="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" height="40px" />
-          
-          
-                                        
-          
-</div>
+* **Especialista em Golang & PHP:** Vasta experiência na criação de microsserviços do zero e modernização estratégica de sistemas legados.
+* **Visão de Ponta a Ponta (SDLC):** Atuação completa, desde o alinhamento com stakeholders até a automação de deploys (CI/CD).
+* **Liderança Técnica:** Foco em guiar times de alta performance, disseminar boas práticas de arquitetura e garantir a excelência técnica.
 
-<!--
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-</div>  
--->
+---
 
+### 🛠️ Tech Stack:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Go (Especialista), PHP 8, JavaScript (Node.js, React) |
+| **Frameworks** | Laravel, CodeIgniter, Slim |
+| **Infra & Ops** | Docker, Kubernetes, Jenkins, Azure DevOps, CI/CD |
+| **Dados** | MySQL, Oracle, MongoDB (Relacional & NoSQL) |
+| **Práticas** | Clean Code, TDD, REST APIs, Microservices |
+
+---
+
+### 📈 Estatísticas:
+
+![diogocardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocardoso&layout=compact&theme=radical)
+
+---
+
+### 📫 Vamos nos conectar?
+
+Estou sempre aberto a conversar sobre tecnologia, inovação e arquitetura de sistemas.
+
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/diogorcardoso)
+* **E-mail:** [diogo.cardosor@gmail.com]
+
+---
+*"Buscando constantemente otimizar processos e entregar produtos que gerem impacto real."*
