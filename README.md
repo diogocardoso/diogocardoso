@@ -1,4 +1,4 @@
-# Olá, eu sou o [Diogo] 👋
+# Olá, eu sou o Diogo 👋
 
 ### Software Architect | Go Specialist | Technical Leader
 
@@ -28,8 +28,8 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 
 ### 📈 Estatísticas:
 
-![diogocardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogocardoso&layout=compact&theme=radical)
+diogocardoso's GitHub stats (https://github-readme-stats.vercel.app/api?username=diogocardoso&show_icons=true&theme=radical)
+Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=diogocardoso&layout=compact&theme=radical)
 
 ---
 
@@ -37,9 +37,9 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 
 Estou sempre aberto a conversar sobre tecnologia, inovação e arquitetura de sistemas.
 
-* **Site:** [Web Advance(https://www.webadvance.com.br)
-* **LinkedIn:** [linkedin.com/in/diogorcardoso(https://www.linkedin.com/in/diogorcardoso)
-* **E-mail:** [diogo.cardosor@gmail.com]
+* **Site:** Web Advance (https://www.webadvance.com.br)
+* **LinkedIn:** linkedin.com/in/diogorcardoso (https://www.linkedin.com/in/diogorcardoso)
+* **E-mail:** diogo.cardosor@gmail.com
 
 ---
 *"Buscando constantemente otimizar processos e entregar produtos que gerem impacto real."*
