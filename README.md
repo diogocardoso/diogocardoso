@@ -37,7 +37,8 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 
 Estou sempre aberto a conversar sobre tecnologia, inovação e arquitetura de sistemas.
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/diogorcardoso)
+* **Site:** [Web Advance(https://www.webadvance.com.br)
+* **LinkedIn:** [linkedin.com/in/diogorcardoso(https://www.linkedin.com/in/diogorcardoso)
 * **E-mail:** [diogo.cardosor@gmail.com]
 
 ---
