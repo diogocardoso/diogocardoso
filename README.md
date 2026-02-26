@@ -24,9 +24,21 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 | **Dados** | MySQL, Oracle, MongoDB (Relacional & NoSQL) |
 | **Práticas** | Clean Code, TDD, REST APIs, Microservices |
 
+#### Front 
 
-[![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocardoso)](https://github.com/diogocardoso/diogocardoso)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align="left" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" align="left" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" align="left" height="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" align="left" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" align="left" width="30px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" align="left" width="30px" />
 
+                                        
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs&logoColor=white)
+
+ 
 ---
 
 ### 📈 Estatísticas:
