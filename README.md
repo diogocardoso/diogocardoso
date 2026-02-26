@@ -24,6 +24,9 @@ Com mais de **15 anos de trajetória** na tecnologia, foco em transformar desafi
 | **Dados** | MySQL, Oracle, MongoDB (Relacional & NoSQL) |
 | **Práticas** | Clean Code, TDD, REST APIs, Microservices |
 
+
+[![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogocardoso)](https://github.com/diogocardoso/diogocardoso)
+
 ---
 
 ### 📈 Estatísticas:
